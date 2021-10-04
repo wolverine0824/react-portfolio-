@@ -1,0 +1,14 @@
+.bullets {
+    list-style-type: disc !important;
+    padding-left: 2em;
+}
+
+.cyan {
+    color: lightcoral
+}
+
+@media (min-width: 768px) {
+    #top {
+        margin-top: 10px !important;
+    }
+}
