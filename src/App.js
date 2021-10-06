@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
-import Navbar from "./components/Nav";
+import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './components/styles/style.css'
+import './components/css/style.css'
 
 function App() {
   

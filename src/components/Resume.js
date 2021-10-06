@@ -2,33 +2,77 @@ import React from 'react'
 
 function Resume() {
     return (
-      <section className="my-5">
-        <div className="my-2">
-        <p>
-          Download my <a href="https://mail.google.com/mail/u/0?ui=2&ik=1c494ef0ad&attid=0.1&permmsgid=msg-f:1702785361512306826&th=17a18243b9ad188a&view=att&disp=safe">resume</a>
-          </p>
-          <h3>Front-end Proficiencies</h3>
-          <ul className="skills">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>jQuery</li>
-            <li>responsive design</li>
-            <li>React</li>
-            <li>Bootstrap</li>
-          </ul>
-          <h3>Back-end Proficiencies</h3>
-          <ul className="skills">
-            <li>APIs</li>
-            <li>Node</li>
-            <li>Express</li>
-            <li>MySQL, Sequelize</li>
-            <li>MongoDB, Mongoose</li>
-            <li>REST</li>
-            <li>GraphQL</li>
-          </ul>
+      <div className="row">
+        <div className="col-lg offset-lg-1 col-md-1 col-sm-8 offset-md-1 col-sm-8 0ffset-sm-2">
+          <h2 className="font-weight-bold"> Logon Pierce </h2>
+          <div>lorem</div>
         </div>
-      </section>
+
+        <div className="col-lg-3 col-md-3 offset-md-0 offset-lg-0 offset-sm-2" id="top">
+          <div> 230 Lakemont Dr </div>
+          <div> Fayetteville, GA 30215 </div>
+          <div>470-277-9467</div>
+          <div> Github - wolverine0824 </div>
+        </div>
+      
+
+      <div className="row font-weight-bold">
+      <div className="col-lg-7 offset-lg-1 col-md-7 offset-md-1 col-md-7 offset-md-1 col-sm-8 offset-sm-2 mt-5">
+        <h4 className="cyan"> Experience </h4>
+        <div className="mt-2">
+
+          <h5>
+            <span class="font-weight-bold"> Georgia Institute Of Technology </span>
+            <span class="font-italic"> Full Stack Developer </span>
+          </h5>
+          <div>04/2021 - PRESENT </div>
+          <ol className="bullets">
+            <li>lorem</li>
+            <li>lorem</li>
+          </ol>
+
+          <h5>
+            <span class="font-weight-bold"> Georgia Institute Of Technology </span>
+            <span class="font-italic"> Full Stack Developer </span>
+          </h5>
+          <div>04/2021 - PRESENT </div>
+          <ol className="bullets">
+            <li>lorem</li>
+            <li>lorem</li>
+          </ol>
+
+
+          <h5>
+            <span class="font-weight-bold"> Georgia Institute Of Technology </span>
+            <span class="font-italic"> Full Stack Developer </span>
+          </h5>
+          <div>04/2021 - PRESENT </div>
+          <ol className="bullets">
+            <li>lorem</li>
+            <li>lorem</li>
+          </ol>
+        </div>
+      </div>
+      <div class="col-lg--3 offset-md-0 offset-lg-0 offset-sm-2 col-sm-8 mt-5">
+        <h4 className="cyan"> Technologies </h4>
+        <div class="mt-2">
+          <div> HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, 
+            Mysql, Mongoose, Handlebars, OOP, ORM, MVC, MongoDB, and React </div>
+
+            <h4 className="cyan"> Skills </h4>
+            {/* inter skills here */}
+            <div> </div>
+        </div>
+        <div class=" row offset-lg-1 offset-md-1 offset-sm-2 mb-5">
+          <h5 class="font-weight-bold"> Georgia Institute Of Technology, </h5>
+          <div> 04/2021 - 04/2021 </div> 
+          <div> full stack development program (MERN Stack) </div>
+        </div>
+      </div>
+      
+      </div>
+      </div>
+      
     );
   }
   

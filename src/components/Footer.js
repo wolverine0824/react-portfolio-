@@ -24,11 +24,3 @@ function Footer() {
   }
   
   export default Footer;
-  // const icons = [
-  //   {
-  //     name: "fab fa-github",
-  //     link: "https://github.com/wolverine0824"
-  //   },
-  //   {
-  //     name: "fab fa-linkedin",
-  //     link: "https://www.linkedin.com/in/logon-pierce-05369020b/"
