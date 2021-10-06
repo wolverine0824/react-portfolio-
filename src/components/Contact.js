@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div>
       <from action="contact">
-        <div className="container shadow-lg p-3 mb-5 bg-white rounded ">
+        <div className="container shadow-lg p-3 mb-5 bg-white rounded align-center ">
           <div class="row">
             <div className="form-group">
               <label for="form_name">Firstname</label>
@@ -13,8 +13,8 @@ function Contact() {
               <div class="help-block with-errors"></div>
             </div>
           </div>
-        </div>
-          <div class="col-md-2">
+        
+          <div class="col-md-2 align-center">
             <div className="form-group">
               <label for="form_lastname">Lastname</label>
               <input id="form_lastname" type="text" Name="surname" class="form-control" placeholder="Lastname" required="required" data-placeholder="Valid Lastname is required."></input>
@@ -34,6 +34,7 @@ function Contact() {
               <input id="form_message" Name="message" class="form-control" placeholder="Message" required="required" data-placeholder="Valid Message is required."></input>
               <div class="help-block with-errors"></div>
             </div>
+          </div>
           </div>
           <div class="col-md-12 offset-md-3"></div>
           <input type="submit" class="btn btn-primary" value="Send message"></input>

@@ -20,35 +20,13 @@ function Resume() {
       <div className="col-lg-7 offset-lg-1 col-md-7 offset-md-1 col-md-7 offset-md-1 col-sm-8 offset-sm-2 mt-5">
         <h4 className="cyan"> Experience </h4>
         <div className="mt-2">
-s
           <h5>
             <span class="font-weight-bold"> Georgia Institute Of Technology </span>
             <span class="font-italic"> Full Stack Developer </span>
           </h5>
           <div>04/2021 - PRESENT </div>
           <ol className="bullets">
-            <li>lorem</li>
-            <li>lorem</li>
-          </ol>
-
-          <h5>
-            <span class="font-weight-bold"> Georgia Institute Of Technology </span>
-            <span class="font-italic"> Full Stack Developer </span>
-          </h5>
-          <div>04/2021 - PRESENT </div>
-          <ol className="bullets">
-            <li>lorem</li>
-            <li>lorem</li>
-          </ol>
-
-
-          <h5>
-            <span class="font-weight-bold"> Georgia Institute Of Technology </span>
-            <span class="font-italic"> Full Stack Developer </span>
-          </h5>
-          <div>04/2021 - PRESENT </div>
-          <ol className="bullets">
-            <li>lorem</li>
+            <li>Develop a user friendly E-commerce website utilizing bootstrap, handlebars, APIs and javascript </li>
             <li>lorem</li>
           </ol>
         </div>
@@ -62,6 +40,12 @@ s
             <h4 className="cyan"> Skills </h4>
             {/* inter skills here */}
             <div> </div>
+
+            <div class="row offset-lg-1 offset-md-1 offset-sm-2 mt-5">
+              <div class="font-weight-bold">
+                <h4 className="cyan"> Education </h4>
+              </div>
+            </div>
         </div>
         <div class=" row offset-lg-1 offset-md-1 offset-sm-2 mb-5">
           <h5 class="font-weight-bold"> Georgia Institute Of Technology, </h5>

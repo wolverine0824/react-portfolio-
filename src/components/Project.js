@@ -16,7 +16,7 @@ function project() {
                 <div className="card-body">
                     <h5 className="card-title"> a Workday Planner </h5> 
                     {/* <p className="card-text"> Work</p> */}
-                    <a href="http://" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
+                    <a href="https://wolverine0824.github.io/work-day-planner/" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
                 </div>
             </di>
         </div>
@@ -26,7 +26,7 @@ function project() {
                 <div className="card-body">
                     <h5 className="card-title"> this app allows you to find fuel prices and weather in your area </h5> 
                     {/* <p className="card-text"> Work</p> */}
-                    <a href="http://" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
+                    <a href="https://xtended99.github.io/CoffeeOverFlow/" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
                 </div>
             </di>
         </div>
@@ -36,7 +36,7 @@ function project() {
                 <div className="card-body">
                     <h5 className="card-title"> this is an E-commerce site where you can purchase items </h5> 
                     {/* <p className="card-text"> Work</p> */}
-                    <a href="http://" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
+                    <a href="https://gtbc-e-commerce.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
                 </div>
             </di>
         </div>
@@ -46,7 +46,7 @@ function project() {
                 <div className="card-body">
                     <h5 className="card-title"> this is a fully functioning weather app </h5> 
                     {/* <p className="card-text"> Work</p> */}
-                    <a href="http://" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
+                    <a href="https://wolverine0824.github.io/wk6-weatherAPI/" target="_blank" rel="noopener noreferrer" className="btn btn-primary"> deployed app</a>
                 </div>
             </di>
         </div>
