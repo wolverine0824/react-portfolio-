@@ -14,9 +14,9 @@ function Navbar (props) {
       <div>
       <div className="collapse navbar-collapse" id="navbarNavAtlMarkup">
         <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('About')}>About</button>
-        <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('About')}>Contact</button>
-        <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('About')}>Project</button>
-        <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('About')}>Resume</button>
+        <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('Contact')}>Contact</button>
+        <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('Project')}>Project</button>
+        <button type="button" className="btn btn-primary" id="About" onClick={() => props.setCurrentPage('Resume')}>Resume</button>
         </div>
       </div>
     </div>

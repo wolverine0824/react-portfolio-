@@ -4,8 +4,8 @@ function Resume() {
     return (
       <div className="row">
         <div className="col-lg offset-lg-1 col-md-1 col-sm-8 offset-md-1 col-sm-8 0ffset-sm-2">
-          <h2 className="font-weight-bold"> Logon Pierce </h2>
-          <div>lorem</div>
+          <h2 className="font-weight-bold"> Logon T. Pierce </h2>
+          <div> A recent Full Stack Developer completing my studies at Georgia Institute of Technology.  While attending my courses I acquired a passion for developing scalable web applications that will help improve efficiency in operation.  I am also very enthusiastic to be at the implementation phase of my new career as aWeb Developer.  Now having an array of knowledge in various front and back end languages, responsive databases and best cod practices.  I look forward to utilizing these skills along with my strong communication, customer service and leadership skills.  Prior to taking the Web Development courses at GA Tech.  I have spent the last 8 plus years as a competitive golfer, while also serving in a leadership capacity at World Changer Church International.  My conviction is that clients come first and therefore make a point to stay in constant communication keeping them fully aware throughout the process.  I look forward to using all these skills  </div>
         </div>
 
         <div className="col-lg-3 col-md-3 offset-md-0 offset-lg-0 offset-sm-2" id="top">
