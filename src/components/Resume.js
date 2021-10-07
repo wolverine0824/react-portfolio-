@@ -26,20 +26,22 @@ function Resume() {
           </h5>
           <div>04/2021 - PRESENT </div>
           <ol className="bullets">
-            <li>Develop a user friendly E-commerce website utilizing bootstrap, handlebars, APIs and javascript </li>
-            <li>lorem</li>
-          </ol>
-        </div>
-      </div>
-      <div class="col-lg--3 offset-md-0 offset-lg-0 offset-sm-2 col-sm-8 mt-5">
-        <h4 className="cyan"> Technologies </h4>
-        <div class="mt-2">
-          <div> HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, 
-            Mysql, Mongoose, Handlebars, OOP, ORM, MVC, MongoDB, and React </div>
+            <li>Develop a user friendly E-commerce website utilizing bootstrap, handlebars, API keys CSS and javascript.</li>
+            <li>Worked well within a team assisting in structure and outlay of Databases.</li>
+            <li>Built, tested and developed a variety of web applications using the Mern Stack.</li>
 
-            <h4 className="cyan"> Skills </h4>
-            {/* inter skills here */}
-            <div> </div>
+          </ol>
+                </div>
+              </div>
+               <div class="col-lg--3 offset-md-0 offset-lg-0 offset-sm-2 col-sm-8 mt-5">
+                 <h4 className="cyan"> Technologies </h4>
+              <div class="mt-2">
+               <div> HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, 
+                       Mysql, Mongoose, Handlebars, OOP, ORM, MVC, MongoDB, and React </div>
+
+                    <h4 className="mt-5 cyan"> Skills </h4>
+
+                      <div> Leadership, Databases, People skills, Team management, Troubleshooting, Wireframes, Oral and written communications, Data generation tools, Web analytics tools,  Project management</div>
 
             <div class="row offset-lg-1 offset-md-1 offset-sm-2 mt-5">
               <div class="font-weight-bold">
